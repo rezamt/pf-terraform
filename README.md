@@ -1,5 +1,7 @@
 # Terraform for PingFederate
- 
+
+The current PingFederate Provider only supports PingFederate 11.2 [PingFederate Version Support](https://github.com/pingidentity/terraform-provider-pingfederate/blob/main/docs/index.md)
+
 ## IMPORTANT Release Information
 # v0.2.0 (Unreleased)
 ### FEATURES

@@ -7,6 +7,7 @@ terraform {
   }
 }
 
+# https://github.com/pingidentity/terraform-provider-pingfederate/blob/main/docs/index.md
 provider "pingfederate" {
   # Configuration options
 	https_host = "https://localhost:8888"
