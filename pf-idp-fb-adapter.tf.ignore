@@ -1,0 +1,4 @@
+# Only supported in PF Provider 0.2.0 (check README.md)
+resource "pingfederate_idp_adapter" "idpAdapter" {
+  # (resource arguments)
+}
